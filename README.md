@@ -1,2 +1,2 @@
-# Seguran-a-de-Sistemas-de-Informac-o
+# Segurança da Informação
 Matérias das aulas de Segurança de Sistemas de Informação
